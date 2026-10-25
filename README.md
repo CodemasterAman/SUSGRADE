@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/screenshots/logo.png" alt="/susgrade" width="560">
+<img src="https://raw.githubusercontent.com/CodemasterAman/SUSGRADE/main/susgrade/docs/screenshots/logo.png" alt="/susgrade" width="560">
 
 ### See what's *actually* worth testing.
 
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://codemasteraman.github.io/SUSGRADE/">
-    <img src="docs/screenshots/hero.png" alt="susgrade — the landing experience and live analyzer" width="900">
+    <img src="https://raw.githubusercontent.com/CodemasterAman/SUSGRADE/main/susgrade/docs/screenshots/hero.png" alt="susgrade — the landing experience and live analyzer" width="900">
   </a>
 </p>
 
@@ -470,4 +470,3 @@ Built as a Software Verification and Testing project (course **CSE4149**) at **M
 ## License
 
 Released under the **MIT License**. See [`LICENSE`](LICENSE) for the full text.
-
