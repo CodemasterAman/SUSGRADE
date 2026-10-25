@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CodemasterAman/SUSGRADE/main/susgrade/docs/screenshots/logo.png" alt="/susgrade" width="560">
+<img src="https://raw.githubusercontent.com/CodemasterAman/SUSGRADE/main/susgrade/docs/screenshots/Logo.png" alt="/susgrade" width="560">
 
 ### See what's *actually* worth testing.
 
